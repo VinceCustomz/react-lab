@@ -1,0 +1,16 @@
+h3 {
+    text-decoration: underline;
+}
+
+table, th, td {
+    border: 1px solid white;
+    width: 100vw;
+}
+
+table.center {
+    margin: auto;
+}
+
+.studentList {
+    padding-top: 2rem;
+}
